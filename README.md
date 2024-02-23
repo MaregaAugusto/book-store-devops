@@ -3,6 +3,8 @@
 **Descripción:**
 Una tienda de libros en línea desea implementar prácticas básicas de DEVOPS. El equipo está en las etapas iniciales de aprendizaje sobre DEVOPS. El objetivo es mejorar la eficiencia en el desarrollo y despliegue de aplicaciones.
 
+![](1.png)
+
 **Para ejecutar un proyecto React, necesitarás algunos requisitos básicos.** 
 
 1. **Node.js y npm:**
