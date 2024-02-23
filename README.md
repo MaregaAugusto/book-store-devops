@@ -28,7 +28,7 @@ Eso es básicamente lo que necesitas para ejecutar un proyecto React.
    - Crear un repositorio Git para el código fuente de la aplicación.
    - Inicializar el repositorio con la estructura básica del proyecto.
 
-2. **Automatización de Tareas (Bash Scripts):**
+2. **Automatización de Tareas (scripts):**
    - Escribir que pasos necesitaria tomar en cuentas para automatizar tareas como la compilación del código, copia de archivos, etc.
 
 ```Ejemplo
