@@ -1,4 +1,4 @@
-**Nombre del Proyecto:** Tienda de Libros
+## **Nombre del Proyecto:** Tienda de Libros
 
 **Descripción:**
 Una tienda de libros en línea desea implementar prácticas básicas de DEVOPS. El equipo está en las etapas iniciales de aprendizaje sobre DEVOPS. El objetivo es mejorar la eficiencia en el desarrollo y despliegue de aplicaciones.
