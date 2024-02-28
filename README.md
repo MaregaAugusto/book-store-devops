@@ -10,6 +10,7 @@ Una tienda de libros en línea desea implementar prácticas básicas de DEVOPS. 
 1. **Node.js y npm:**
    - Asegúrate de tener Node.js instalado. Puedes descargar la última versión desde el [sitio oficial de Node.js](https://nodejs.org/).
    - npm (Node Package Manager) se instala automáticamente con Node.js.
+   - node version 16
 
 2. **Código fuente del proyecto React:**
    - Clona el repositorio del proyecto React desde un sistema de control de versiones como Git. 
